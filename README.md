@@ -46,3 +46,4 @@ Requirements
 Extra credits
 
     Add the function to search by name and phone number (10%)
+    Create the GUI using HCI principles
